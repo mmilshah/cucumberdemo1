@@ -6,4 +6,7 @@ public class dd {
     {
 
     }
+    
+    public void dlfdlk(){
+    }
 }
